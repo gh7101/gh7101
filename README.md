@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**gh7101/gh7101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My name is Glenneca Hall
+_________________________________
+Here Are Some Facts About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m a student at RVCC
+- 🖥 I’m currently learning web developement and sign language
+- 🏃‍♀️ I enjoy going for runs  
+- 🛫 I’m looking forword to traveling  
+- 🌎 I have lived in two countries  
+- 👧 Pronouns: (she/her) 
+- 🎼 Fun fact: I can play the flute 
+
